@@ -1,0 +1,50 @@
+[
+    {
+        "id": 3,
+        "timestamp": 1,
+        "sender": "Alice",
+        "message": "hello, im alice"
+    },
+    {
+        "id": 3, 
+        "timestamp": 2,
+        "sender": "Franklin",
+        "message": "hi alice, nice to meet you"
+    },
+    {
+        "id": 3, 
+        "timestamp": 3,
+        "sender": "Franklin",
+        "message": "what can i do for you"
+    },
+    {
+        "id": 3, 
+        "timestamp": 4,
+        "sender": "Alice",
+        "message": "i want to make an appointment"
+    },
+    {
+        "id": 1, 
+        "timestamp": 1,
+        "sender": "Bob",
+        "message": "hi alice! its bob, ur therapist"
+    },
+    {
+        "id": 1, 
+        "timestamp": 2,
+        "sender": "Alice",
+        "message": "hi bob! thank you for meeting with me"
+    },
+    {
+        "id": 1, 
+        "timestamp": 3,
+        "sender": "Alice",
+        "message": "can i make another appointment"
+    },
+    {
+        "id": 1, 
+        "timestamp": 4,
+        "sender": "Bob",
+        "message": "sure! just go ahead and create an appointment in the appointments page"
+    }
+]

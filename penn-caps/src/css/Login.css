@@ -1,0 +1,29 @@
+.login-box {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 15px;
+    padding: 3vh 3vw 3vh 3vw;
+    width: 30%;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    background-color: #FFFFFF;
+}
+
+.form-label {
+    text-align: left !important;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.errorTextStyle {
+    color: red;
+    font-size: 14;
+    margin-bottom: 1rem;
+
+}

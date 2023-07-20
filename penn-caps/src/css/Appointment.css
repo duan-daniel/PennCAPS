@@ -1,0 +1,44 @@
+.body {
+  display: flex;
+  flex-direction: row;
+}
+
+.apt-menu {
+  display: flex;
+  flex-direction: column;
+  width: 150px;
+  margin-top: 30px;
+  margin-left: 170px;
+}
+
+.right {
+  margin-top: 30px;
+  margin-left: 80px;
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  margin-bottom: 30px;
+}
+
+.subtitle {
+  margin-bottom: 10px;
+}
+
+.menu-btn {
+  margin-bottom: 10px;
+}
+
+.appointment-table {
+  margin-top: 5px;
+  width: 1000px;
+}
+
+.modal {
+  margin-top: 100px;
+}
+
+.analytics-section {
+  margin-bottom: 30px;
+}

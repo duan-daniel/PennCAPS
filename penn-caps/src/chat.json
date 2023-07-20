@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "members": ["Alice", "Bob"]
+    },
+    {
+        "id": 2,
+        "members": ["David", "Eli"]
+    },
+    {
+        "id": 3,
+        "members": ["Alice", "Franklin"]
+    },
+    {
+        "id": 4,
+        "members": ["Alice", "Gabe"]
+    }
+]
